@@ -35,12 +35,6 @@ This project demonstrates:
 
 ---
 
-### 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### 🙌 Acknowledgements
 
 * [React.js Docs](https://reactjs.org/docs/getting-started.html)
