@@ -37,8 +37,8 @@ This project demonstrates:
 
 ### 🙌 Acknowledgements
 
-* [React.js Docs](https://reactjs.org/docs/getting-started.html)
-* [Tailwind CSS Docs](https://tailwindcss.com/docs)
+* [React.js Docs](https://reactjs.org/docs/getting-started.html).
+* [Tailwind CSS Docs](https://tailwindcss.com/docs).
 
 ---
 
